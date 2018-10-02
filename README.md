@@ -1,2 +1,1 @@
-# react-coding-test
-react coding test
+react-assignment
